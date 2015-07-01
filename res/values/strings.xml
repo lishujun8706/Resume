@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MainFramework04</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Resume_name">李书军</string>
+    <string name="Resume_gender">男</string>
+    <string name="address">苏州市昆山市新城域花园</string>
+    <string name="email">lishujun8706@163.com</string>
+    <string name="phonenumber">18914955682</string>
+    <string name="birthday">87年6月</string>
+    <string name="education">本科</string>
+    <string name="originplace">山东泰安</string>
+    <string name="company1">纬创资通QT</string>
+    <string name="response1">2010~2013年：昆山纬创资通QT部门工作，负责NB的测试工作，主要内容：产品不同阶段
+        的软件测试、硬件测试，及软硬件的兼容测试；涉及BIOS、HDD、WLAN、Bluetooth和电脑周边接口；熟悉测试流程，
+        查找Bug，管理Bug、追踪Bug解决结果，简单全面明了的描述测试环境及问题，保证了测试结果较高的质量。熟悉Bug的
+        跟踪和管理；通过此工作，对电脑硬件架构及系统有了较深刻的理解。</string>
+    <string name="company2">纬创资通SW</string>
+    <string name="response2">2013~2014年：昆山纬创资通SW部门工作，负责产线上的测试程式的编写(Object-C)
+        和debug，及配合产线上的生产要求维护测试程式，使用Python抓去网页数据，整理成一定格式的测试数据；工作期
+        间更好的熟悉了产线流程，以及常见的问题，分析测试数据，能够与其他部门合作及时解决生产中遇到的问题。通过此
+        工作，熟悉了面向对象编程语言Objective-C，以及Java编程语言；熟悉了多线程，http、UDP协议，熟悉xml、
+        Json解析。工作期间参加测试站项目改善，完善测试程式（加入多线程），可同时进行两个devices的测试，获得书
+        面嘉奖两次。</string>
+    <string name="evaluation">熟悉Java编程、Linux系统和常用命令；熟悉Android开发；熟悉activity、contentprovider、
+        service、broadcast、sqlite编程、xml及Json解析，了解android adapter机制；有项目经验，完成过基于《个推》的推送
+        程序的编写，有coolweather开发经验；热爱编程工作，熟悉Eclipse开发环境；善于沟通，注重团队合作；能够及时独立完成领导
+        交给的务；善于调整心态，能够保持积极的工作态度。</string>
+
+</resources>

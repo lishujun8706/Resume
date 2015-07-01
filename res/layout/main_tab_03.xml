@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ly_main_weixin"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#fcfcfc"
+    android:orientation="vertical" >
+    
+
+    <EditText
+            android:layout_width="fill_parent"
+   	        android:layout_height="0dp"
+   	        android:layout_weight="1"
+            android:text="@string/evaluation"
+            android:textSize="20sp" />
+    
+   	<!--TextView 
+   	    android:layout_width="fill_parent"
+   	    android:layout_height="0dp"
+   	    android:layout_weight="1"
+   	    android:gravity="center"
+   	    android:text="通讯录页面!"
+   	    android:textColor="#000000"
+   	    android:textSize="30sp"
+   	    /-->
+
+    
+
+</LinearLayout>
